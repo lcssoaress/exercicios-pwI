@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.bolacha{
+    background-color: bisque;
+    font-size: smaller;
+    color: orange;
+}
+.biscoito{
+    color: chartreuse;
+    background-color: brown;
+    font-size: larger;
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.caixa{
+    margin: 40vh;
+    padding: 20vh;
+    background-image: linear-gradient(green, yellow);
+}
+.caixa p{
+    border-bottom: 2px black solid;
+
+}
+body{
+    background-image: linear-gradient(blue,black);
+}

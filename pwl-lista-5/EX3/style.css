@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+}
+div{
+    padding: 5vh;
+    background-color: purple;
+    border-radius: 10rem;
+}
+.intro{
+    background-image: linear-gradient(green,yellow);
+    color: orange;
+    border-radius: 1vh 1vh 2vh 2vh ;
+    margin: 2vh;
+    text-align: center;
+    padding: 5vh;
+    width: 20vh;
+}
+.descricao{
+    background-image: linear-gradient(blue,black);
+    color: blue;
+    padding: 2vh;
+
+    display: flex;
+    justify-content: right;
+    border-radius: 1vh 1vh 2vh  2vh;
+    margin: 2dvh;
+}
