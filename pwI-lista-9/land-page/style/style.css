@@ -107,7 +107,6 @@ body {
 .content h2 button {
     all: initial;
     position: absolute;
-    bottom: -12px;
     left: 353px;
     display: flex;
     justify-content: center;
