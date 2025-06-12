@@ -101,6 +101,7 @@ body {
 .content h2 {
     display: flex;
     justify-content: space-between;
+    margin-left: 15px;
     align-items: center;
     font-weight: 350;
     font-size: 25px;
